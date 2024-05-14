@@ -1,1 +1,1 @@
-This project involves public sentiment analysis on the UK CBDC called digital pound. The public sentiment data collected via Twitter will then be compared against the BoE's Consulting and Technology Papers. These papers contain responses of the public to the BoE papers on digital pound.
+# This project involves public sentiment analysis on the UK CBDC called digital pound. The public sentiment data collected via Twitter will then be compared against the BoE's Consulting and Technology Papers. These papers contain responses of the public to the BoE papers on digital pound.
